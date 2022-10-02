@@ -15,7 +15,7 @@ const parametrosdb = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'fabian_2021',
+    password: 'XXXXX', //configurar password de base de datos
     database: 'andariegos'
 }; 
 
