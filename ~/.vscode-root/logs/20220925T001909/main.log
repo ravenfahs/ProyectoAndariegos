@@ -1,0 +1,4 @@
+[2022-09-25 00:19:10.530] [main] [info] update#setState idle
+[2022-09-25 00:19:13.549] [main] [info] Starting extension host with pid 7801 (fork() took 6 ms).
+[2022-09-25 00:19:22.106] [main] [info] Waiting for extension host with pid 7801 to exit.
+[2022-09-25 00:19:22.232] [main] [info] Extension host with pid 7801 exited with code: 0, signal: null.
